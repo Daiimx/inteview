@@ -1,0 +1,42 @@
+body{background: black;
+color: white;
+font-size:20px;
+}
+h1{
+	text-align:center;
+}
+img{
+	width: 12%;
+	height: 5%;
+	display: block;
+	margin: auto;
+
+}
+.texto{
+	text-align:center;
+}
+.formula{
+	text-align: center;
+	vertical-align: auto;
+	width: 15%;
+	height: 15%;
+	padding: 5%;
+	margin: 5%;
+	margin-inline: auto;
+	border-top-width: 20px;
+	border-right-width: 20px;
+	border-bottom-width: 20px;
+	border-left-width: 20px;
+	border-radius: 20px 20px 20px 20px;
+	border-style: solid;
+	border-color: white;
+	background-color: gray;
+	color:white;
+	max-width: 100%;
+
+}
+
+input{
+	max-width: 100%;
+	float: none;
+}
